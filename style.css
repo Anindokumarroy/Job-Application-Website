@@ -255,4 +255,8 @@ input:focus{
     padding: 40px;
     box-shadow: 5px 5px 10px 10px rgb(20, 117, 149);
 }
+.top-section{
+    display: flex;
+    flex-direction: column;
+}
 }
