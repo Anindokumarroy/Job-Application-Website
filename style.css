@@ -245,14 +245,24 @@ input:focus{
     font-size: 16px;
     padding: 10px;
 }
-.border{
-    min-height: 480px;
+.container{
+    width: 100%;
+}
+.content{
+
+    max-width: 500px;
     margin: 0 auto;
-    width: 400px;
+    padding: 30px;
+}
+.border{
+    min-height: 500px;
+    margin: 0 auto;
+    margin-right: 60px;
+    width: 300px;
     background: white;
     border: 2px;
     border-radius: 10px;
-    padding: 40px;
+    padding: 25px;
     box-shadow: 5px 5px 10px 10px rgb(20, 117, 149);
 }
 .top-section{
